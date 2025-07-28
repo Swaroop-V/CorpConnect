@@ -1,4 +1,4 @@
-CorpConnect: 🏢 Corporate Employee Event Management Portal
+CorpKites: 🏢 Corporate Employee Event Management Portal
 
 A role-based web application for organizing, managing, and participating in corporate employee events across multiple companies. Built using React.js, CSS and MySQL.
 
