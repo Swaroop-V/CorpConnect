@@ -84,5 +84,6 @@ Thanks to the team and mentors who guided this project.
 
 ----
 
-📃 License
+📃 License:
+
 This project is private project. Unauthorized commercial use or reproduction is not permitted without permission.
