@@ -78,7 +78,8 @@ Visit in Browser: http://localhost:3000/
 ----
 
 
-🙌 Acknowledgements
+🙌 Acknowledgements:
+
 Thanks to the team and mentors who guided this project.
 
 ----
