@@ -84,4 +84,4 @@ Thanks to the team and mentors who guided this project.
 ----
 
 📃 License
-This project is open-source. You're free to use and adapt it under MIT License.
+This project is private project. Unauthorized commercial use or reproduction is not permitted without permission.
